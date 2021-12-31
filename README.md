@@ -1,15 +1,14 @@
 
 
-<h2 align="center">
+<h1 align="center">
         <samp>&gt;_ Hello World! I am
                 <b><a target="_blank" href="https://dokksen.github.io/">Dogan Sahin</a> ....</b>
         </samp>
-</h2>
+</h1>
 <br>
 
 
-
-### Technologies
+## Technologies
 
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
@@ -23,7 +22,6 @@
     <a href="https://www.docker.com/" target="_blank"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="docker" width="35" height="35"> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 </p>
-
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dokksen)
