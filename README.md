@@ -66,7 +66,7 @@ When I am not coding my next project, I enjoy spending my time reading books and
 
 <span align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dokksen)
+![Profile Views](https://komarev.com/ghpvc/?username=dokksen&color=DC143C&style=flat-square)
 
 </span>
 
