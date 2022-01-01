@@ -38,9 +38,14 @@ When I am not coding my next project, I enjoy spending my time reading books, wa
 <br>
 
 <p align="center">
-<a href="https://www.instagram.com/doganshn97/"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/instagram.svg" alt="instagram" width="30px" height="30"/></a>
-<a href="https://www.linkedin.com/in/dogan-sahin-173193157/"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/linkedin.svg" alt="linkedin" width="30px" height="30"/></a>
-<a href="https://twitter.com/dogansahinnnn"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/twitter.svg" alt="twitter" width="30px" height="30"/></a>
+    You have any questions, or you just want to say hi, you can find me on following social media platforms or just send an email.
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/doganshn97/"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/instagram.png" alt="instagram" width="38x" height="38px"/></a>
+<a href="https://www.linkedin.com/in/dogan-sahin-173193157/"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/linkedin.png" alt="linkedin" width="35px" height="35"/></a>
+<a href="https://twitter.com/dogansahinnnn"> <img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/twitter.png" alt="twitter" width="35px" height="35"/></a>
+<a href="mailto:dogansahin80@gmail.com"><img align=”left” src="https://raw.githubusercontent.com/dokksen/dokksen/master/images/email.png" alt="email" width="35px" height="35"/></a>
 </p>
 
 <br/>
@@ -54,6 +59,8 @@ When I am not coding my next project, I enjoy spending my time reading books, wa
 ![Dogan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dokksen&show_icons=true&locale=en&layout=compact&theme=dracula) &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dokksen&&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dokksen" height="195"></p>
 
 </span>
+
+[Contact Us](mailto:admin@cloudhadoop.com)
 
 
 
