@@ -10,7 +10,7 @@
 <p align="center">
 I love coding and drinking coffee, the most important prerequisites to be a software engineer.
 Joking aside, designing and building clean and nice looking applications with their backends from scratch has always fascinated me. Thanks to this fascination, I was able to gain experience in programming microservices, REST APIs and frontends. In addition, deploying and running these applications have deepened my skills in Linux server environment.
-When I am not coding my next project, I enjoy spending my time reading books, watching football, and I love taking <span><a class="pictures_link" target="_blank" href="https://www.eyeem.com/u/dokksen"> pictures</a></span>.
+When I am not coding my next project, I enjoy spending my time reading books and articles, watching football, and I love taking <span><a class="pictures_link" target="_blank" href="https://www.eyeem.com/u/dokksen"> pictures</a></span>.
 </p>
 
 <h2 align="center">
