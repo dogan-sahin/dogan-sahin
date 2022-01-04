@@ -2,7 +2,7 @@
 
 <h1 align="center">
         <samp>&gt;_ Hello World! I am
-                <b><a target="_blank" href="https://dokksen.github.io/">Dogan Sahin</a></b>
+                <b><a target="_blank" href="https://dogan-sahin.github.io/">Dogan Sahin</a></b>
         </samp>
 </h1>
 <br>
